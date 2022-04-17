@@ -72,9 +72,9 @@ Fonte: https://medium.com/luizalabs/descomplicando-a-clean-architecture-cf4dfc4a
 
 ## camelCase: para nomes de arquivos de classes, componentes React, VARIÁVEIS E FUNÇÕES
 
-## kebab-case: ara os demais arquivos
-
 ## snake_case: para colunas de banco de dados
+
+## kebab-case: Para os demais arquivos
 
 <br />
 
